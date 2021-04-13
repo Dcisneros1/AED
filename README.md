@@ -1,6 +1,5 @@
 • Algoritmos y Estructuras de Datos
-• Curso.
-• Año de cursada, y cuatrimestre si corresponde.
-• Legajo.
-• Apellido.
-• Nombre
+• Curso : K051
+• Legajo : 1600310
+• Apellido : Cisneros
+• Nombre : Damian
