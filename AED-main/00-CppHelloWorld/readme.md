@@ -1,1 +1,0 @@
-Compilador utilizado : Visual Studio Code Version 1.55.1
